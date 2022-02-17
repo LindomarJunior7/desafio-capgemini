@@ -1,10 +1,15 @@
 DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
 Tecnologias utilizadas:
-Ferramenta: Eclipse (IDE)
-Java como linguagem de programação
-Git para versionamento
-Github para hospedagem
+
+-Ferramenta: Eclipse (IDE)
+
+-Java como linguagem de programação
+
+-Git para versionamento
+
+-Github para hospedagem
+
 
 Como rodar a aplicação:
 
